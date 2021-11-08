@@ -1,4 +1,4 @@
-# Extended_MiniC_Java
+# Extended_MiniC_Scanner_Java
 Location of original file
 https://github.com/PLASS-Lab/FLT-2019  PLASS-Lab / FLT-2019/MiniC Scanner/Java/MiniCScanner 
 MiniC extended to java
